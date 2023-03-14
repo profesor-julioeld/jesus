@@ -1,5 +1,0 @@
-com\s2daw\demo\ServletInitializer.class
-com\s2daw\demo\models\Bar.class
-com\s2daw\demo\DemoApplication.class
-com\s2daw\demo\dao\BarRepository.class
-com\s2daw\demo\controllers\Controller.class
